@@ -9,6 +9,12 @@ Implementation is in PKCS1
 iOS 10+
 android 4.1+ (API 16)
 
+OBS: Be sure that you have the iOS 10+ version in the Podfile of your project. Example:
+
+```
+platform :ios, '10.0'
+```
+
 ## Status
 
 Features:
